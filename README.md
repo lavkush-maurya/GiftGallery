@@ -46,11 +46,11 @@ I'll add screenshots soon!!!
 Contributing
 Contributions to the Gift Gallery project are welcome! If you find any issues or want to add new features, please follow these steps:
 
-> -Fork the repository.
-> -Create a new branch for your feature or bug fix.
-> -Make the necessary changes in your branch.
-> -Test your changes thoroughly.
-> -Commit your changes and push them to your forked repository.
+> -Fork the repository.<br/>
+> -Create a new branch for your feature or bug fix.<br/>
+> -Make the necessary changes in your branch.<br/>
+> -Test your changes thoroughly.<br/>
+> -Commit your changes and push them to your forked repository.<br/>
 > -Submit a pull request, explaining your changes and providing any relevant information.
 <br/>
 <br/>
