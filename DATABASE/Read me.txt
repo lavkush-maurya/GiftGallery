@@ -1,0 +1,9 @@
+Open xampp
+Start mysql And Apache
+open chrome 
+http://localhost/phpmyadmin/
+create new database set name = "minor" 
+go to import option 
+select SQL_file from DATABASE Folder 
+Scroll down And click import 
+operation close  
