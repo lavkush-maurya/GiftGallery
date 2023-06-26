@@ -19,11 +19,11 @@ Features
 
 **Set up the MySQL database:**
 
--Create a new database for the project.
--Import the provided SQL dump file (database.sql) into the newly created database.
+> -Create a new database for the project.
+> -Import the provided SQL dump file (database.sql) into the newly created database.
 
 
-Configure the database connection:
+**Configure the database connection:**
 
 Open the config.php file located in the includes directory.
 Update the database configuration variables with your MySQL database details.
@@ -31,13 +31,13 @@ Start your web server.
 
 Access the application in your web browser at http://localhost/GiftGallery.
 
--Technologies Used
--PHP
--JavaScript
--MySQL
--HTML/CSS
--Bootstrap
--Stripe (for payment processing)
+##Technologies Used
+> -PHP
+> -JavaScript
+> -MySQL
+> -HTML/CSS
+> -Bootstrap
+> -Stripe (for payment processing)
 
 
 Screenshots
